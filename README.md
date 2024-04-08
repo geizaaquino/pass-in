@@ -1,4 +1,4 @@
-## pass.in
+## Checkin
 
 Criado junto com a Rocketseat/Porem não tive permissão para utilizar o banco de dados 
 O pass.in é uma aplicação de gestão de participantes em eventos presenciais.
